@@ -8,3 +8,5 @@ https://kenkoooo.com/atcoder#/table/
 
 問題穴埋め
 - 灰色(2023.5.2~)
+
+- A問題完答(2023.5.7)
